@@ -40,7 +40,7 @@ export default function IDcard() {
               <span className="text-sky-500">
                 <strong> Roll no: </strong>
               </span>
-              <span className="text-black"> 00463152 </span>
+              <span className="text-black"> 00123456 </span>
             </p>
 
             <p className="mb-2">
